@@ -1,0 +1,38 @@
+Stückliste exportiert aus /Users/severin/Documents/eagle/3x3 Matrix/3x3_Matrix.sch am 16.12.11 12:57
+
+Bauteil Wert            Device          Package      Description                         
+B1      B80C800RUND     RB1A            RB1A         RECTIFIER                           
+C1      100n            C-EU050-024X044 C050-024X044 CAPACITOR, European symbol          
+C2      22u             CPOL-EUE1.8-4   E1,8-4       POLARIZED CAPACITOR, European symbol
+C3      22u             CPOL-EUE1.8-4   E1,8-4       POLARIZED CAPACITOR, European symbol
+D1      1N4004          1N4004          DO41-10      DIODE                               
+IC1     TINY24/44/84-PU TINY24/44/84-PU DIL14                                            
+IC2     7805            78XXS           78XXS        VOLTAGE REGULATOR                   
+JP1                     JP1E            JP1          JUMPER                              
+JP2                     JP1E            JP1          JUMPER                              
+PAD1    LED_R1          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
+PAD2    LED_R2          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
+PAD3    LED_R3          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
+PAD4    LED_C1          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
+PAD5    LED_C2          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
+PAD6    LED_C3          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
+PAD7    VCC             2,54/1,0        2,54/1,0     THROUGH-HOLE PAD                    
+PAD8    GND             2,54/1,0        2,54/1,0     THROUGH-HOLE PAD                    
+PAD9    Supply          2,54/1,0        2,54/1,0     THROUGH-HOLE PAD                    
+PAD10   Supply          2,54/1,0        2,54/1,0     THROUGH-HOLE PAD                    
+Q1      BC337-40        BC337-40        TO92         NPN Transistor                      
+Q2      BC337-40        BC337-40        TO92         NPN Transistor                      
+Q3      BC337-40        BC337-40        TO92         NPN Transistor                      
+Q4      BC337-40        BC337-40        TO92         NPN Transistor                      
+Q5      BC337-40        BC337-40        TO92         NPN Transistor                      
+Q6      BC337-40        BC337-40        TO92         NPN Transistor                      
+R1      10k             R-EU_0207/10    0207/10      RESISTOR, European symbol           
+R2      470             R-EU_0207/10    0207/10      RESISTOR, European symbol           
+R3      470             R-EU_0207/10    0207/10      RESISTOR, European symbol           
+R4      470             R-EU_0207/10    0207/10      RESISTOR, European symbol           
+R5      120             R-EU_0207/10    0207/10      RESISTOR, European symbol           
+R6      120             R-EU_0207/10    0207/10      RESISTOR, European symbol           
+R7      120             R-EU_0207/10    0207/10      RESISTOR, European symbol           
+S1      TASTER 3301     10-XX           B3F-10XX     OMRON SWITCH                        
+S2      SS ESP101       M9040P          M9040P       TOGGLE SWITCH                       
+SV1     WSL 6G          MA03-2          MA03-2       PIN HEADER                          
