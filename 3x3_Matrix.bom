@@ -1,15 +1,17 @@
-Stückliste exportiert aus /Users/severin/Documents/eagle/3x3 Matrix/3x3_Matrix.sch am 16.12.11 12:57
+Stückliste exportiert aus /Users/severin/Documents/eagle/3x3 Matrix/3x3_Matrix.sch am 06.01.12 16:33
 
 Bauteil Wert            Device          Package      Description                         
 B1      B80C800RUND     RB1A            RB1A         RECTIFIER                           
 C1      100n            C-EU050-024X044 C050-024X044 CAPACITOR, European symbol          
-C2      22u             CPOL-EUE1.8-4   E1,8-4       POLARIZED CAPACITOR, European symbol
-C3      22u             CPOL-EUE1.8-4   E1,8-4       POLARIZED CAPACITOR, European symbol
+C2      100u            CPOL-EUE5-6     E5-6         POLARIZED CAPACITOR, European symbol
+C3      330u            CPOL-EUE5-6     E5-6         POLARIZED CAPACITOR, European symbol
 D1      1N4004          1N4004          DO41-10      DIODE                               
+D2      1N5819-B        1N5819-B        DO41-7.6     1.0A SCHOTTKY BARRIER RECTIFIER     
 IC1     TINY24/44/84-PU TINY24/44/84-PU DIL14                                            
-IC2     7805            78XXS           78XXS        VOLTAGE REGULATOR                   
+IC2     LM2575-T50      LM2596TV        TO220-51     STEP-DOWN VOLTAGE REGULATOR         
 JP1                     JP1E            JP1          JUMPER                              
 JP2                     JP1E            JP1          JUMPER                              
+L1                      L-EUIRF-1       IRF-1        INDUCTOR, European symbol           
 PAD1    LED_R1          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
 PAD2    LED_R2          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
 PAD3    LED_R3          2,54/0,8        2,54/0,8     THROUGH-HOLE PAD                    
